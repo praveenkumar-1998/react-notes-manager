@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/my-notes-app/' // MUST match repo name
+  base: '/react-notes-manager/' // MUST match repo name
 })
